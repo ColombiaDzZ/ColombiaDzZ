@@ -1,6 +1,6 @@
 
 ### Olá, eu sou o Colombia Diaz
-Desenvolvedor Front-End 🤭
+## Desenvolvedor Front-End 🤭
 
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/colombiadzz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicios-2254432b4/)
