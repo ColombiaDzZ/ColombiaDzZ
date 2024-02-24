@@ -18,6 +18,7 @@
 </div><br/>
 
 ### Últimos projetos desenvolvidos:
+##
 
 - [Pokedéx com uma listagem de 649 Pokémons em JavaScipt, HTML e CSS](https://github.com/ColombiaDzZ/Pokedex)</br>
 
