@@ -17,6 +17,10 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
+## Tecnologias que mais utilizo para projetos no Github
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colombiadzz&hide_progress=true)
+
 ### Últimos projetos desenvolvidos:
 ##
 
