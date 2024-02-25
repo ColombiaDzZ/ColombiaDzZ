@@ -19,7 +19,7 @@
 
 ## Tecnologias que mais utilizo para projetos no Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colombiadzz&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colombiadzz&hide=javascript,html)
 
 ### Últimos projetos desenvolvidos:
 ##
@@ -30,4 +30,4 @@
 
 - [Meu portfólio de Desenvolvedor Web](https://github.com/ColombiaDzZ/Portfolio-Dev-Front-End)</br>
 
-- [Projeto de estilização Full com CSS em uma NUI de um Spotify](https://github.com/ColombiaDzZ/Spotify-Project-NUI)</br>
+- [Projeto de estilização Full com HTML e CSS em uma NUI de um Spotify](https://github.com/ColombiaDzZ/Spotify-Project-NUI)</br>
